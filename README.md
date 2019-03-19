@@ -2,3 +2,5 @@
 Data science project for 481
 -Ben Valois
 -Sharon Fitzsimmons
+-Renae Rohde
+-Mark McGrail
