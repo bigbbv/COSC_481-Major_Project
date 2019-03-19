@@ -1,1 +1,6 @@
-Proposal for thing
+Data Science Group – The Fantastic 4
+Proposal due 4/7/19
+Your Question: What other factors are correlated to life expectancy of females as a percentage of males? We will do this by graphing to see the country outliers and looking as those. We will then determine why the higher ones may exist and why the lower ones may as well, based on the other factors. 
+Its Relevance to a Societal Need: If it turns out that a proportionately lower or higher life expectancy for women has a strong correlation with another variable, that could lead us to determining how the life expectancy of women could be increased by either increasing or decreasing other factors.
+Dataset: SOWC-2017-statistical-tables.pdf on our GitHub (State of the World’s Children dataset found on UNICEF website)
+Citations: https://www.unicef.org/sowc2017/
