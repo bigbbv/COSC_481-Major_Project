@@ -1,5 +1,6 @@
 1- pull dataset. Make interpretable
 2- graph/identifies outlying countries (high/low)
 3- heatmap idetifies correlations to look at
-4/5- scatterplots for high correlations from 3
+4- scatterplots for high correlations from 3
+5- README information
 6- write the paper
