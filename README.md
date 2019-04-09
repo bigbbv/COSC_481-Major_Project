@@ -7,4 +7,4 @@ Data science project for 481
 Abstract:
 
 Python 3.7
-Packages: 
+Packages: Numpy, Pandas, Matplotlib
