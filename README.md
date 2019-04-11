@@ -7,4 +7,4 @@ Data science project for 481
 Abstract:
 
 Python 3.7
-Packages: Numpy, Pandas, Matplotlib
+Packages: Numpy(https://scipy.org/install.html), Pandas(https://pandas.pydata.org/pandas-docs/stable/install.html), Matplotlib(https://matplotlib.org/users/installing.html)
