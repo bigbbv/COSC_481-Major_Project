@@ -1,5 +1,8 @@
 # COSC_481-Major_Project
 Data science project for 481
+Analyzing the Survival Rates to the Last Grade of Primary School 
+for Females vs. Males in the Known Countries of the World 
+and Causes Behind the Differences
 -Ben Valois
 -Sharon Fitzsimmons
 -Renae Rohde
