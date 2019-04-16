@@ -2,5 +2,9 @@
 2- graph/identifies outlying countries (high/low)
 3- heatmap idetifies correlations to look at
 4- scatterplots for high correlations from 3
+Panda for L1
+Panda for L2
+Heatmap L1
+Heatmap L2
 5- README information
 6- write the paper
