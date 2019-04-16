@@ -1,3 +1,7 @@
+https://ourworldindata.org/child-mortality#global-picture-of-child-mortality-from-1800-until-today
+Child Mortality rate data with mention of education of women lowering child mortality rates
+
+
 https://www.who.int/whr/2004/annex/topic/en/annex_2_en.pdf
 Deaths by cause, sex and mortality stratum in WHO regions, 2002
 
