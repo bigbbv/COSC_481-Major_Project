@@ -9,4 +9,4 @@ and Causes Behind the Differences
 -Mark McGrail
 Abstract:
 Language: Python 3.7
-Packages: Numpy(https://scipy.org/install.html), Pandas(https://pandas.pydata.org/pandas-docs/stable/install.html), Matplotlib(https://matplotlib.org/users/installing.html)
+Packages: Numpy(https://scipy.org/install.html), Seaborn(https://seaborn.pydata.org/installing.html), Pandas(https://pandas.pydata.org/pandas-docs/stable/install.html), Matplotlib(https://matplotlib.org/users/installing.html)
