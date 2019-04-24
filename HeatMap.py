@@ -8,6 +8,8 @@
 #Ben Valois, Sharon Fitzsimmons, Renae Rohde, Mark McGrail
 #April 24, 2019
 #This program creates the heat map for the provided csv.
+#Manipulation in Excel was simpler than coding in Python/Pandas, so CSV file was 
+#created from original file (SOWC Cleaned) and exported from Excel. 
 #It also scans the specified column for values higher than howCorrelated is set to
 
 import pandas as pd
