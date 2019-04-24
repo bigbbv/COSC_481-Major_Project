@@ -35,10 +35,12 @@ dataWom = dataWom.set_index('Countries and areas')
 value1 = dataWom['Life expectancy: females as a % of males']
 value2 = dataWom['Survival rate to the last grade of primary: females as a % of males']
 
+#creates the figuresize then sets up the boxplot
 plt.figure(figsize=(45,5)) 
 box_plot_data=[value1,value2]
 box=plt.boxplot(box_plot_data,vert=0,patch_artist=True,labels=['LE F%M','SR F%M PS'], )
  
+#set colors (yea if that was unclear)
 colors = ['cyan', 'lightblue', 'lightgreen']
 for patch, color in zip(box['boxes'], colors):
     patch.set_facecolor(color)
