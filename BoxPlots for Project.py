@@ -3,6 +3,10 @@
 
 # In[ ]:
 
+#BoxPlots for Project.py
+#Ben Valois, Sharon Fitzsimmons, Renae Rohde, Mark McGrail
+#April 24, 2019
+#This program will create box plots for the data used
 
 #We, surprisingly have a lot of outliers. In an interesting turn of events, 
 #we only have outliers on the high end, so we can examine what is working
