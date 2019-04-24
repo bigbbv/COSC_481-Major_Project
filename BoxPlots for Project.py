@@ -25,7 +25,6 @@ dataWom = pd.read_excel(file, 'Copy of Women')
 
 dataWom.columns = dataWom.loc[1].fillna('')
 
-dataWom = dataWom.drop(dataWom.index[0:3])
 dataWom = dataWom.drop(dataWom.index[202:])
 dataWom = dataWom.set_index('Countries and areas')
 
