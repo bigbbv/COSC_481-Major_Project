@@ -12,17 +12,17 @@ Language: Python 3.7
 Packages: Numpy(https://scipy.org/install.html), Seaborn(https://seaborn.pydata.org/installing.html), Pandas(https://pandas.pydata.org/pandas-docs/stable/install.html), Matplotlib(https://matplotlib.org/users/installing.html)
 Specific Packages and Versions(some of which may be unused):
 NUMPY:
-blaze 0.11.3
-bottleneck 1.2.1
-numba 0.38.0
-numexpr 2.6.5
-numpy 1.14.3
-numpy-base 1.14.3
-numpydoc 0.8.0
+(blaze 0.11.3)
+(bottleneck 1.2.1)
+(numba 0.38.0)
+(numexpr 2.6.5)
+(numpy 1.14.3)
+(numpy-base 1.14.3)
+(numpydoc 0.8.0)
 SEABORN:
-seaborn 0.8.1
+(seaborn 0.8.1)
 PANDAS:
-pandas 0.23.0
+(pandas 0.23.0)
 MATPLOTLIB:
-matplotlib 2.2.2
+(matplotlib 2.2.2)
 
