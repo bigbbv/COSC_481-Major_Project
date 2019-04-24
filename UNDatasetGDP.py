@@ -6,7 +6,7 @@
 #UNDatasetGDP.py
 #Ben Valois, Sharon Fitzsimmons, Renae Rohde, Mark McGrail
 #April 24, 2019
-#
+#This code is used for data prep, returning a csv
 
 import pandas as pd
 #files = ['Women_In_Parliament.csv', 'Ratio_GB_Education.csv', 'Population_Area_Density.csv','GDP.csv','Employment.csv','Expenditure_on_Education.csv','Crimes.csv']
