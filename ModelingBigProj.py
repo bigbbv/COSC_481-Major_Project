@@ -3,6 +3,10 @@
 
 # In[ ]:
 
+#ModelingBigProj.py
+#Ben Valois, Sharon Fitzsimmons, Renae Rohde, Mark McGrail
+#April 24, 2019
+#This code will take the provided data and plot it using linear regression
 
 import numpy as np
 from sklearn import linear_model
